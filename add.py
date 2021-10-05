@@ -5,6 +5,8 @@ len_of_arr = len(arr)
 mean = sum(arr)/len(arr)
 print(mean)
 
+#adding it just for the name sake of the t shirt
+
 arr_med = sorted(arr)
 len_of_arr_med = len(arr_med)
 if len_of_arr_med%2 ==0:
